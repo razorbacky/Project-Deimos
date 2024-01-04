@@ -1,3 +1,7 @@
+![Project_Deimos](https://github.com/razorbacky/Project-Deimos/assets/51449986/33873892-6772-46a0-a002-ba9ae7bcccc1)
+
+![Main_Program](https://github.com/razorbacky/Project-Deimos/assets/51449986/b4a1b5a2-1c66-48d5-ba71-a7b5bfa78697)
+
 [Python] Project Deimos "Moons of Planets"
 ====
 
